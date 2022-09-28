@@ -56,77 +56,77 @@ namespace WindowsFormsApp1
                     break;
                 case 2: //bursa
                     button17.Text = "B";
-                   
+
                     richTextBox1.Text = ".... civarı pasif var mı sorusunun sorulduğu ilimiz ? xD";
                     break ;
                 case 3: //cumhur
                     button17.Text = "C";
-                   
+
                     richTextBox1.Text = "AKP ve MHP nin kurduğu ittifakın adı nedir ?";
                     break;
                 case 4: //dersim
                     button17.Text = "D";
-                    
+
                     richTextBox1.Text = "Tunceli şehrimizin diğer adı nedir ?";
                     break;
                 case 5: //endonezya
                     button17.Text = "E";
-                   
+
                     richTextBox1.Text = "Tsunami Felaketinde En Fazla Zarar Gören Güney Asya Ülkesi Aşağıdakilerden Hangisidir ?";
                     break;
                 case 6: //fatih terim
                     button17.Text = "F";
-                    
+
                     richTextBox1.Text = "İmparator adıyla bilinen Teknik Direktör Kimdir?";
                     break;
                 case 7: //gaziantep
                     button17.Text = "G";
-                   
+
                     richTextBox1.Text = "Mustafa Kemal Atatürk’ün Nüfusa Kayıtlı Olduğu İl Hangisidir ?";
                     break;
                 case 8: //herkül
                     button17.Text = "H";
-                   
+
                     richTextBox1.Text = "Yunan mitolojisinde gücü ile bilinen yarı tanrı";
                     break;
                 case 9: //ırak
                     button17.Text = "I";
-                   
+
                     richTextBox1.Text = "Eskiden İslam Dünyasının ilim beşiği olan Kufe şehri hangi devlet sınırları içindedir?";
                     break;
                 case 10: //kudüs
                     button17.Text = "K";
-                   
+
                     richTextBox1.Text = "Üç Büyük Dince Kutsal Sayılan Şehir Hangisidir?";
                     break;
                 case 11: //lizozom
                     button17.Text = "L";
-                    
+
                     richTextBox1.Text = "Hücre yapısında yer alan organelin adı nedir?";
                     break;
                 case 12: //muğla
                     button17.Text = "M";
-                   
+
                     richTextBox1.Text = "Hangi İlimizde Demiryolu Yoktur?";
                     break;
                 case 13: //namibya
                     button17.Text = "N";
-                    
+
                     richTextBox1.Text = "Namib Çölünün Bulunduğu ülke";
                     break;
                 case 14: //olay ufku
                     button17.Text = "O";
-                    
+
                     richTextBox1.Text = "Bir Karadelik'ten Kurtulabileceğiniz en yakın noktanın adı nedir";
                     break;
                 case 15: //pruva
                     button17.Text = "P";
-                    
+
                     richTextBox1.Text = "Geminin baş kısmının adı nedir?";
                     break;
                 case 16: //resital
                     button17.Text = "R";
-                    
+
                     richTextBox1.Text = "tek bir sanatçının tek bir çalgıyla verdiği konsere ne denir";
                     break;
             }
